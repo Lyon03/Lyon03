@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Joel James👋
 
 <!--
 **Lyon03/Lyon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻I'm in my freshman year of btech Computer Science Engineering at VIT Chennai.
+- 📝I'm currerntly learning Django, Java & DevOps.
+- 📫Feel free to connect with me via [Twitter](https://twitter.com/JoelsTechTwt) or [LinkedIn](https://www.linkedin.com/in/joel-james-kott/)
