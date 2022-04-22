@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻I'm in my freshman year of btech Computer Science Engineering at VIT Chennai.
+- 💻I'm in my freshman year of BTech Computer Science Engineering at VIT Chennai.
 - 📝I'm currerntly learning Django, Java & DevOps.
 - 📫Feel free to connect with me via [Twitter](https://twitter.com/JoelsTechTwt) or [LinkedIn](https://www.linkedin.com/in/joel-james-kott/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyon03&show_icons=true&theme=tokyonight&hide=stars" />
