@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...e
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📝I'm currerntly learning Django, Java & DevOps.
 - 👯 I aspire to be an active Open Source Contributor and help folks out!
 
-<img align= "center" src="https://github-readme-stats.vercel.app/api?username=Lyon03&show_icons=true&theme=tokyonight&hide=stars" />
+<img align= "center" src="https://github-readme-stats.vercel.app/api?usernvame=Lyon03&show_icons=true&theme=tokyonight&hide=stars" />
 
 <h3 align = "center"> Connect with me! </h3>
 <div id="badges" align = center>
@@ -27,5 +27,8 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/JoelsTechTwt">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/401341832232960000">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
