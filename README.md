@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻I'm in my freshman year of BTech Computer Science at VIT Chennai.
+- 💻I'm in my sophomore year of BTech Computer Science at VIT Chennai.
 - 📝I'm currerntly learning Django, Java & DevOps.
 - 👯 I aspire to be an active Open Source Contributor and help folks out!
 
