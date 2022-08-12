@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻I'm in my sophomore year of BTech Computer Science at VIT Chennai.
-- 📝I'm currerntly learning Django, Java & DevOps.
+- 📝I'm currerntly learning Java & ML with Python.
 - 👯 I aspire to be an active Open Source Contributor and help folks out!
 
 <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Lyon03&show_icons=true&theme=tokyonight&hide=stars" />
