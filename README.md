@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻I'm in my sophomore year of BTech Computer Science at VIT Chennai.
-- 📝I'm currerntly learning Java & ML with Python.
+- 💻I'm in my third year of BTech Computer Science at VIT Chennai.
+- 📝I'm always learning the most random stuff, experimenting to see what I truly enjoy doing.
 - 👯 I aspire to be an active Open Source Contributor and help folks out!
 
 <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Lyon03&show_icons=true&theme=tokyonight&hide=stars" />
